@@ -33,6 +33,7 @@ public class UserContoller {
         logger.info("==UserContoller==toLogin===");
         return "/login";
     }
+
     /**
      * 跳转到主页
      * @author tanfy 2016-01-09

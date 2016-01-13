@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cms-data-parent.iml" filepath="$PROJECT_DIR$/cms-data-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-user/cms-user.iml" filepath="$PROJECT_DIR$/cms-user/cms-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-user/cms-user-api/cms-user-api.iml" filepath="$PROJECT_DIR$/cms-user/cms-user-api/cms-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-user/cms-user-provider/cms-user-provider.iml" filepath="$PROJECT_DIR$/cms-user/cms-user-provider/cms-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-user-web/cms-user-web.iml" filepath="$PROJECT_DIR$/cms-user-web/cms-user-web.iml" />
+    </modules>
+  </component>
+</project>
